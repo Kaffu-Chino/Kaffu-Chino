@@ -14,7 +14,7 @@
 
 - ~~算法蒟蒻，前端菜鸡~~
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaffu-Chino&hide_border=true&theme=ambient_gradient&layout=compact&langs_count=6">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaffu-Chino&hide_border=true&theme=ambient_gradient&layout=compact">
 
 ### 🛠️使用语言
 
@@ -27,7 +27,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=fff)
-![Dockerfile](https://img.shields.io/badge/-Dockerfile-384d54?style=flat-square&logo=docker&logoColor=fff)
 
 <!--
 **Kaffu-Chino/Kaffu-Chino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
