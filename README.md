@@ -14,9 +14,9 @@
 
 - ~~算法蒟蒻，前端菜鸡~~
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaffu-Chino&hide_border=true&theme=ambient_gradient&layout=compact">
-
 ### 🛠️使用语言
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaffu-Chino&hide_border=true&theme=ambient_gradient&layout=compact">
 
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
